@@ -1,6 +1,6 @@
-## Crafting Interpreters in Rust
+# Crafting Interpreters in Rust
 
-### Overview
+## Overview
 
 This repository contains the source code for the [Crafting Interpreters](https://craftinginterpreters.com/) book, implemented in Rust. The book covers the design and implementation of a simple programming language, including lexical analysis, parsing, and evaluation.
 
@@ -18,7 +18,7 @@ The project implements most of challenges in the book:
 
 The `tests/` folder contains unit tests for the implementation.
 
-### Future development
+## Future development
 The book covers 2 parts:
 - Part 1: Interpreter
 - Part 2: Compiler for a Virtual Machine
